@@ -1,15 +1,15 @@
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm [Mạnh Kiên]
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=54A6FF&center=true&vCenter=true&width=435&lines=Software+Developer;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
-- 🔭 I'm currently working on [Your Current Project]
-- 🌱 I'm currently learning [Technologies you're learning]
+- 🔭 I'm currently working on [AI cho người Việt]
+- 🌱 I'm currently learning [HVU-HungVuong]
 - 👯 I'm looking to collaborate on interesting projects
-- 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: [Your Email]
+- 💬 Ask me about [AI,python]
+- 📫 How to reach me: [kienmanhnguyen29@gmail.com]
 
 ## 🛠️ Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -33,13 +33,13 @@
 
 ## 🤝 Connect with me
 <div align="center">
-  <a href="https://linkedin.com/in/YourLinkedIn" target="_blank">
+  <a href="[https://www.linkedin.com/in/m%E1%BA%A1nh-ki%C3%AAn-b15a98228]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/YourTwitter" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:kienmanhnguyen29@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
